@@ -1,0 +1,6 @@
+main: info.beerstorm.main.Main
+name: MoarDrinks
+version: 1.0
+author: Labstein
+description: Everything is in the name. MOAR DRINKS ! Add alcohol drinks and more.
+commands:
